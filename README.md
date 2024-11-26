@@ -16,10 +16,6 @@ Check out the live demo of the application [here](https://vaibhav-support-desk.o
 - [Contributing](#contributing)
 - [License](#license)
 
-## Description
-
-The Support Desk MERN App is a web application that allows users to submit support tickets for issues they encounter. It helps in managing and tracking support requests efficiently. The app is built using the MERN stack, providing a smooth and seamless user experience.
-
 ## Features
 
 - User authentication and authorization
@@ -35,9 +31,7 @@ To run the application locally, follow these steps:
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/mvaibhav77/support-desk-react.git
-```
+
 
 2. Navigate to the project directory:
 
